@@ -1,4 +1,4 @@
-# P1_ExParcial_Q1_2017-18
+# 240032P1_ExParcial_Q1_2017-18
 
 ## Examen parcial Curs 2017-18 Q1 Problema 1
 
@@ -11,6 +11,9 @@
    (-0.6,0.6)$ and the triangle it belongs. Which is the relative error when
    comparing the interpolated temperature and the one assigned by the function?
 
+   |  numTrig  |  T\(p\)  | RelError   |
+   |:---------:|:--------:|:----------:|
+   | 25        | 1.7013e+01| 9.4262e-03|
 
    (Hint: for node 35 the temperature value is 3.8437e-01).
 
@@ -18,8 +21,8 @@
    The triangle with maximum temperature and its value is:
 
 
+   |  numTrig  |  Temp      |
+   |:---------:|:----------:|
+   | 27        | 1.7985e+01 |
+
    (Hint: for element 37 the temperature value is 1.2465e+01).
-
-
-
-
