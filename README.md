@@ -1,4 +1,4 @@
-# 240032P1_ExParcial_Q1_2017-18
+# 240032P1-Parcial-Q1-2017-18-Prob1
 
 ## Examen parcial Curs 2017-18 Q1 Problema 1
 
